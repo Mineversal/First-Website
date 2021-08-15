@@ -1,0 +1,2 @@
+[07-Dec-2020 15:33:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/minevers/tugas.mineversal.com/user/auth.php:6) in /home/minevers/tugas.mineversal.com/user/account.php on line 14
+[07-Dec-2020 15:39:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/minevers/tugas.mineversal.com/user/auth.php:6) in /home/minevers/tugas.mineversal.com/user/account.php on line 14

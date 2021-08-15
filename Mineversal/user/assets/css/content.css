@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+p.ic {
+    text-align: justify;
+}
+img {
+    border: 3px solid #f1f1f1;
+}
+hr#batas {
+    border: 2px solid #f1f1f1;
+}
+.text-bg {
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    border: 5px solid #f1f1f1;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 90%;
+    padding: 20px;
+    text-align: center;
+}
